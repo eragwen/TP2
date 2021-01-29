@@ -1,5 +1,5 @@
 # TP2
-Voici le **Markdown** de mon groupe.
+Voici le deuxième **Markdown** de mon groupe.
 ## Honeybadger Documentation
 **Honeybadger** est un *service* qui a pour but de surveiller vos applications sur leur niveau de production et par la suite de vous informez des erreurs et des pannes.<br/>
 <br/>
@@ -13,3 +13,10 @@ Ce site de documentation - comme tout site de documentation - est un travail en 
 Vous pouvez nous contacter en cliquant ici et en remplissant le formulaire. Vous pouvez également nous envoyer un e-mail à support@honeybadger.io.<br/>
 **Bonne lecture à vous !** <br/> 
 <br/> 
+Cette application permet de corriger en surveillant les erreurs
+
+elle permet également de savoir quand est-ce que tel ou tel service tombent en panne
+
+et on peut également savoir quand est-ce que nos travaux et services en arrière plans arrêtent de fonctionner
+
+Honeybadger est compatible avec de nombreux logiciels de communication comme par exemple slack, dans le but d'envoyer des notifications d'alerte
