@@ -7,7 +7,7 @@ Lorsqu'un problème survient, ils vous informerons par mail, chat voir même SMS
 <br/>
 
 ## Récapitulatif
-Ce *service* permet de corriger en surveillant les erreurs.<br/>
+Ce *service* permet de corrigerles erreurs tout en les surveillant constament.<br/>
 <br/>
 Elle permet également de savoir quand est-ce que tel ou tel service tombent en panne,<br/>
 <br/>
