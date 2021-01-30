@@ -4,19 +4,17 @@ Voici le deuxième **Markdown** de mon groupe.
 **Honeybadger** est un *service* qui a pour but de surveiller vos applications sur leur niveau de production et par la suite de vous informez des erreurs et des pannes.<br/>
 <br/>
 Lorsqu'un problème survient, ils vous informerons par mail, chat voir même SMS. Par la suite ils vous fournirons un rapport contextuel riche pour vous aider à résoudre votre problème et à recommencer à faire ce que vous aimez faire.<br/>
- 
-## Organisation
-Cette documentation est organisée en deux sections. Le premier, «guides», vous donne un bref aperçu de notre application Web. La seconde, «bibliothèques», contient une documentation détaillée sur chacune de nos bibliothèques.<br/>
+<br/>
+Cette application permet de corriger en surveillant les erreurs<br/>
+<br/>
+elle permet également de savoir quand est-ce que tel ou tel service tombent en panne<br/>
+<br/>
+et on peut également savoir quand est-ce que nos travaux et services en arrière plans arrêtent de fonctionner<br/>
+<br/>
+Honeybadger est compatible avec de nombreux logiciels de communication comme par exemple slack, dans le but d'envoyer des notifications d'alerte<br/>
+<br/>
 
-Ce site de documentation - comme tout site de documentation - est un travail en cours. Si vous ne trouvez pas ce que vous cherchez, faites-le nous savoir.<br/>
-## Comment contacter le support
-Vous pouvez nous contacter en cliquant ici et en remplissant le formulaire. Vous pouvez également nous envoyer un e-mail à support@honeybadger.io.<br/>
+## Comment les contacter
+Vous pouvez les contacter en cliquant ici et en remplissant le formulaire. Vous pouvez également leur envoyer un e-mail à support@honeybadger.io.<br/>
 **Bonne lecture à vous !** <br/> 
 <br/> 
-Cette application permet de corriger en surveillant les erreurs
-
-elle permet également de savoir quand est-ce que tel ou tel service tombent en panne
-
-et on peut également savoir quand est-ce que nos travaux et services en arrière plans arrêtent de fonctionner
-
-Honeybadger est compatible avec de nombreux logiciels de communication comme par exemple slack, dans le but d'envoyer des notifications d'alerte
