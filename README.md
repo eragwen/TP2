@@ -16,5 +16,4 @@ Honeybadger est compatible avec de nombreux logiciels de communication comme par
 
 ## Comment les contacter
 Vous pouvez les contacter en cliquant ici et en remplissant le formulaire. Vous pouvez également leur envoyer un e-mail à support@honeybadger.io.<br/>
-**Bonne lecture à vous !** <br/> 
 <br/> 
